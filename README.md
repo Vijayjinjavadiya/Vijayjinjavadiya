@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <Your Name></h1>
+<h1 align="center">Hi, I'm Vijay Jinjavadiya <Your Name></h1>
 <h3 align="center">Computer Engineering Student | Machine Learning & Systems</h3>
 
 <p align="center">
