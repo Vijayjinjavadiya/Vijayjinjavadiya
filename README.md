@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vijay Jinjavadiya <Your Name></h1>
-<h3 align="center">Computer Engineering Student | Machine Learning & Systems</h3>
+<h3 align="center">Computer Engineering Student </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/<your-linkedin>/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -9,8 +9,7 @@
 <hr/>
 
 ### About
-Computer Engineering student with interest in building reliable software systems and understanding how data, algorithms, and real-world logic meet. I’m currently focused on Machine Learning fundamentals and clean code practices. I prefer timeless approaches over hype-driven development.
-
+I'm Jinjavadiya Vijay from Rajkot, Gujarat. I’m currently pursuing my diploma in Computer engineering at A.V. Parekh technical institute, Rajkot. right now I’m focused on strengthening my fundamentals, developing machine learning models, and exploring deep learning and NLP.
 <hr/>
 
 ### Skills
@@ -54,7 +53,7 @@ Computer Engineering student with interest in building reliable software systems
 
 <hr/>
 
-### Contact
+### let's talks 
 Location: Rajkot, Gujarat  
 LinkedIn: https://www.linkedin.com/in/<your-linkedin>/  
 GitHub: https://github.com/<your-github>  
