@@ -12,12 +12,12 @@
   <a href="https://www.linkedin.com/in/jinjavadiyavijay/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp
   <a href="https://github.com/JinjavadiyaVijay">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:jinjuvadiyavijay56@gmail.com">
+  <a href="mailto:jinjavadiyavijay17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -43,8 +43,7 @@ Interested in Machine Learning, AI, Computer Vision, and Software Engineering. A
 vijay = {
     "name"       : "Jinjavadiya Vijay",
     "education"  : "Diploma in Computer Engineering — A.V. Parekh Technical Institute, Rajkot",
-    "focus"      : ["Computer Vision", "Deep Learning", "Reinforcement Learning"],
-    "internship" : "AI-based Fish Detection & Classification (YOLO + OAK-D Pro)",
+    "focus"      : ["Computer Vision", "Deep Learning", "Generstive AI"],
     "location"   : "Rajkot, Gujarat, India",
     "goal"       : "ML Engineer targeting real-world CV & AI systems"
 }
@@ -90,13 +89,14 @@ vijay = {
 ### Algorithms & Concepts
 
 <p>
+  <img src="https://img.shields.io/badge/Genrative%20AI-3F7F7A?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-8A4F6D?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Q%20Network-8A6D3B?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neural%20Networks-3F7F7A?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/ANN-5B5B5B?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/CNN-3F6B8A?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/RNN-4F7A63?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supervised%20Learning-8A4F6D?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-5E5C8A?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-8A6D3B?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agent-5E5C8A?style=flat&logoColor=white"/>
 </p>
 
 
@@ -134,10 +134,11 @@ vijay = {
 
 ## 🌱 Currently Exploring
 
-- `Deep Q-Networks (DQN)` and Policy Gradient methods for sequential decision-making
-- `Generative AI` — diffusion models, fine-tuning LLMs, prompt engineering
-- `Transformer architectures` applied to vision tasks (ViT, DETR)
-- Expanding FishVision-AI toward full real-time OAK-D Pro inference pipeline
+- `Agentic AI` — autonomous AI agents, multi-agent systems, planning, reasoning, and tool use
+- `AI Agents` — LangGraph, AutoGen, CrewAI, MCP, memory architectures, and workflow orchestration
+- `Generative AI` — LLM fine-tuning, RAG, prompt engineering, and multimodal AI
+- `GAN Architectures` — DCGAN, CycleGAN, StyleGAN, Pix2Pix, and image generation techniques
+- `Advanced AI Systems` — long-context reasoning, function calling, AI workflows, and autonomous decision-making
 
 ---
 
